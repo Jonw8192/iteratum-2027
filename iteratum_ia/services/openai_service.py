@@ -1,1 +1,0 @@
-# Calls OpenAI and returns structured response

@@ -1,1 +1,0 @@
-# Handles /submit-signal route

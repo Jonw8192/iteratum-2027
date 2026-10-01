@@ -1,1 +1,0 @@
-# Defines SignalRequest schema
